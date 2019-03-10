@@ -1,0 +1,9 @@
+name: mancala
+version: 0.1.0
+
+authors:
+  - Alexandre Lairan <lairana@free.fr>
+
+crystal: 0.27.2
+
+license: MIT
