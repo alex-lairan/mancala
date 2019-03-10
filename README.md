@@ -42,7 +42,7 @@ window = SF::RenderWindow.new(mode, name, SF::Style::Fullscreen)
 
 context = Context.new
 
-controller = Mancala::Controller(Activities::Context).new(window, context)
+controller = Mancala::Controller(Context).new(window, context)
 ```
 
 Let's register some activities !
